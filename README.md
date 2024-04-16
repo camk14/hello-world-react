@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+1. Clone the repository to your local machine:
+   ```sh 
+   git clone https://github.com/camk14/hello-world-react.git
+
 ## Available Scripts
 
 In the project directory, you can run:
